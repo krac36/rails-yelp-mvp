@@ -1,0 +1,41 @@
+=> 
+[[32m#<Restaurant:0x00007f566bd29f60[0m
+  id: [34m[1m11[0m,
+  name: [31m[1m"[0m[31mThe Good, the Bad and the Ugly[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m6946 Runte Passage, West Andrewshire, TN 94226-6105[0m[31m[1m"[0m,
+  phone_number: [34m[1m331993011701[0m,
+  category: [31m[1m"[0m[31mitalian[0m[31m[1m"[0m,
+  created_at: Fri, 23 Feb 2024 15:10:41.226834000 UTC +00:00,
+  updated_at: Fri, 23 Feb 2024 15:10:41.226834000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f566bcd89f8[0m
+  id: [34m[1m12[0m,
+  name: [31m[1m"[0m[31mThe Apartment[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m16410 Kemmer Station, East Dorcasbury, NJ 98421[0m[31m[1m"[0m,
+  phone_number: [34m[1m8503825296343[0m,
+  category: [31m[1m"[0m[31mbelgian[0m[31m[1m"[0m,
+  created_at: Fri, 23 Feb 2024 15:10:41.230871000 UTC +00:00,
+  updated_at: Fri, 23 Feb 2024 15:10:41.230871000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f566bcd8930[0m
+  id: [34m[1m13[0m,
+  name: [31m[1m"[0m[31mLawrence of Arabia[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31mApt. 307 861 Jermaine Mountains, Edieville, KY 91641-5013[0m[31m[1m"[0m,
+  phone_number: [34m[1m5055428455963[0m,
+  category: [31m[1m"[0m[31mjapanese[0m[31m[1m"[0m,
+  created_at: Fri, 23 Feb 2024 15:10:41.234517000 UTC +00:00,
+  updated_at: Fri, 23 Feb 2024 15:10:41.234517000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f566bcd8868[0m
+  id: [34m[1m14[0m,
+  name: [31m[1m"[0m[31mTerminator 2: Judgment Day[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m2468 Rosenbaum Pike, Lueilwitzburgh, OR 84640[0m[31m[1m"[0m,
+  phone_number: [34m[1m5058235910320[0m,
+  category: [31m[1m"[0m[31mjapanese[0m[31m[1m"[0m,
+  created_at: Fri, 23 Feb 2024 15:10:41.238245000 UTC +00:00,
+  updated_at: Fri, 23 Feb 2024 15:10:41.238245000 UTC +00:00[32m>[0m,
+ [32m#<Restaurant:0x00007f566bcd87a0[0m
+  id: [34m[1m15[0m,
+  name: [31m[1m"[0m[31mIntouchables[0m[31m[1m"[0m,
+  address: [31m[1m"[0m[31m737 Brakus Greens, Beiermouth, TX 96847[0m[31m[1m"[0m,
+  phone_number: [34m[1m18767447358812[0m,
+  category: [31m[1m"[0m[31mbelgian[0m[31m[1m"[0m,
+  created_at: Fri, 23 Feb 2024 15:10:41.241197000 UTC +00:00,
+  updated_at: Fri, 23 Feb 2024 15:10:41.241197000 UTC +00:00[32m>[0m]
